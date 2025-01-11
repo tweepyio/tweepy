@@ -76,6 +76,5 @@ Links
 -----
 
 - [Documentation](https://tweepy.readthedocs.io/en/latest/)
-- [Official Twitter Page](https://x.com/tweepy_labs)
 - [Twitter API Documentation](https://developer.twitter.com/en/docs/twitter-api)
 
